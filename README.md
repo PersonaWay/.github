@@ -1,6 +1,8 @@
 # PersonaWay
 Understand Yourself, Empower Your Future
 
+![banner personaway](https://github.com/user-attachments/assets/2d0eff74-64e7-47a3-a217-414e0e75c06a)
+
 This project will create an application called PersonaWay.Personaway is an application that helps you recognize your personality type through DISC tests so that you can develop your full potential.
 Personaway is a combination of “persona” and “way,” symbolizing one's journey in understanding different aspects of personality. The name implies that everyone has a unique path of self-discovery, and the app is a guide that accompanies users in exploring their personalities and finding greater purpose.
 
